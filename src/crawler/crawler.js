@@ -86,7 +86,7 @@ const urlsToVisit = [
       await page.goto(url, { waitUntil: "networkidle2" }); // Wait for network activity to be idle
 
       // Wait for the specific selector to appear
-      await delay(20000);
+      await delay(10000);
 
       // Continuously scroll until all products are loaded
       await autoScroll(page);
@@ -111,14 +111,14 @@ const urlsToVisit = [
   async function autoScroll(page) {
     let previousHeight = 0;
     let scrollAttempts = 0;
-    const maxScrollAttempts = 150; // Adjust this value as needed
+    const maxScrollAttempts = 60; // Adjust this value as needed
 
     while (scrollAttempts < maxScrollAttempts) {
       // Scroll to the bottom of the page
       await page.evaluate("window.scrollTo(0, document.body.scrollHeight)");
 
       // Wait for a short interval to allow content loading
-      await delay(5000); // Wait for 4 seconds; adjust as needed
+      await delay(3000); // Wait for 4 seconds; adjust as needed
 
       // Get the current scroll height
       const currentHeight = await page.evaluate("document.body.scrollHeight");

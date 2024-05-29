@@ -1,517 +1,972 @@
 [
-  {
-    "product_name": "שריר עגל מעובד מופשר",
-    "price": "59.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שפיץ צאך מעובד מופשר",
-    "price": "119.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "פילה מדומה מעובד  מופשר",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "סינטה עגל מעובד מופשר",
-    "price": "139.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אונטריב מעובד מופשר",
-    "price": "79.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "צלעות בקר טרי",
-    "price": "79.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שריר הזרוע טרי",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אסאדו טרי עם  עצם",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אונטריב טרי",
-    "price": "79.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "חזה אסאדו טרי ללא עצם",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שריר עם עצם מח",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "טחון בקר פרימיום טרי",
-    "price": "59.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אנטריקוט טרי פרימיום",
-    "price": "179.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אנטריקוט טרי דק פרימיום",
-    "price": "179.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "צוואר בקר טרי ללא עצם",
-    "price": "59.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "צוואר בקר טרי עם עצם",
-    "price": "59.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "בשר טחון דל שומן טרי",
-    "price": "59.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שפיץ צאך טרי",
-    "price": "139.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "טחון בקר טרי גס פרימיום",
-    "price": "59.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "חזה בקר טרי עם עצם",
-    "price": "59.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "כתף מיניון טרי",
-    "price": "84.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "כנפיים הודו  טרי",
-    "price": "15.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "פרגית עם עצם לתנור",
-    "price": "49.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שוקיים עוף טרי  פרימיום",
-    "price": "39.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "פרגית עם עצם לתנור",
-    "price": "49.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שוקיים עוף טרי  פרימיום",
-    "price": "39.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "כנפיים עוף טרי  פרימיום",
-    "price": "16.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "חזה עוף חצוי טרי  נקי",
-    "price": "44.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "פילה עוף טרי  פרימיום",
-    "price": "54.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שניצל עוף טרי פרימיום  דק דק",
-    "price": "54.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שיפודי פרגיות  טרי",
-    "price": "69.90",
-    "additional_description": "1000 גרם                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "סטייק פרגית טרי  פרימיום",
-    "price": "69.90",
-    "additional_description": "1000 גרם                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "טחון עוף טרי.",
-    "price": "44.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "לבבות עוף  טרי",
-    "price": "29.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "פרגיות טרי  פרימיום",
-    "price": "69.90",
-    "additional_description": "1000 גרם                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "כבד עוף  טרי",
-    "price": "24.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "קוקטייל עוף מקוצב",
-    "price": "49.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "כנפית עוף טרי",
-    "price": "19.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שוקית כנף עוף טרי",
-    "price": "19.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "מעורב ישראלי",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "רצועות  חזה להקפצה",
-    "price": "49.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שווארמה פרגית חתוך טרי",
-    "price": "74.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "דניס טרי במשקל",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "דג ברמונדי טרי",
-    "price": "64.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אמנון טרי במשקל",
-    "price": "38.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "לברק טרי יחידה כ-400 גרם",
-    "price": "37.90",
-    "additional_description": "400 גרם                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אמנון טרי יחידה",
-    "price": "24.90",
-    "additional_description": "400 גרם                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "פילה דניס טרי יחידה",
-    "price": "17.90",
-    "additional_description": "1 יח'                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "פילה אמנון טרי יחידה",
-    "price": "14.90",
-    "additional_description": "1 יח'                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "פילה לברק טרי יחידה",
-    "price": "17.90",
-    "additional_description": "1 יח'                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "דניס טרי יחידה",
-    "price": "32.90",
-    "additional_description": "400 גרם                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "צוואר כבש טרי",
-    "price": "74.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "צלעות כבש טרי",
-    "price": "189.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "כתף כבש טרי",
-    "price": "119.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "כתף בקר מעובד מופשר",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "צלי כתף מעובד מופשר",
-    "price": "99.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אסאדו ללא עצם מעובד מופשר",
-    "price": "59.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אוסובוקו מעובד מופשר",
-    "price": "64.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "רוסטביף לתנור מעובד מופשר",
-    "price": "79.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "בשר ראש מעובד מופשר",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שייטל טרי",
-    "price": "99.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "עצמות מח",
-    "price": "34.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "עצמות בקר",
-    "price": "19.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "רגל עגל טרי",
-    "price": "44.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "כתף בקר טרי",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "צלי כתף טרי מס 5",
-    "price": "99.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "פילה מדומה טרי",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "סינטה טרי שלם",
-    "price": "109.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "פילה בקר טרי",
-    "price": "199.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אנטריקוט טרי עם עצם",
-    "price": "119.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אוסובוקו עגל טרי",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "טחון להמבורגר טרי",
-    "price": "59.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שיפודי אנטריקוט טרי",
-    "price": "159.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שניצל עגל טרי",
-    "price": "89.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "סינטה דק דק טרי",
-    "price": "149.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "דנבר סטייק טרי",
-    "price": "119.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "רוסטביף לתנור טרי",
-    "price": "84.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אנטריקוט טרי לתנור",
-    "price": "99.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "נתחי חזה הודו  טרי",
-    "price": "29.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "כבד הודו  טרי",
-    "price": "16.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "חזה הודו טרי",
-    "price": "34.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "גרון הודו טרי  פרימיום",
-    "price": "34.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "הודו אדום  טרי נקבה",
-    "price": "59.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שווארמה הודו  טרי",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "רצועות שווארמה  טרי",
-    "price": "74.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "טחון הודו אדום  טרי",
-    "price": "59.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שוקיים הודו טרי  נקבה",
-    "price": "29.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "רצועות פרגית להקפצה",
-    "price": "64.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "שוקיים מקוצר",
-    "price": "39.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "קוביות עוף להקפצה",
-    "price": "44.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "כרעיים טרי ארוז",
-    "price": "24.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "עוף טרי  מפורק",
-    "price": "21.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "עוף טרי  שלם",
-    "price": "19.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "כרעיים עוף טרי  פרימיום",
-    "price": "29.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "ירכיים עוף טרי  פרימיום",
-    "price": "29.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "גרון עוף טרי",
-    "price": "12.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "מעורב ירושלמי",
-    "price": "69.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "קרפיון טרי",
-    "price": "29.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "בורי טרי",
-    "price": "49.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "בר ים",
-    "price": "99.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "ברבוניה טרי",
-    "price": "104.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "אינטיאס טרי",
-    "price": "110.00",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  },
-  {
-    "product_name": "פילה סלמון טרי",
-    "price": "119.90",
-    "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה"
-  }
+    {
+        "product_name": "שריר עגל מעובד מופשר",
+        "price_per_kg": "59.90",
+        "unit_price": "59.90 ₪",
+        "discount": "2 ק\"ג ב- 110 ₪",
+        "product_link": "https://yochananof.co.il/s59/wrir-egl-mevbd-mvpwr-402086.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "פילה מדומה מעובד  מופשר",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "במבצע 59.90 ₪ לק\"ג",
+        "product_link": "https://yochananof.co.il/s59/pilh-mdvmh-mevbd-mvpwr-402062.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "צלעות בקר טרי",
+        "price_per_kg": "79.90",
+        "unit_price": "79.90 ₪",
+        "discount": "2 ק\"ג ב- 120 ₪",
+        "product_link": "https://yochananof.co.il/s59/clevt-bqr-tri-403021.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שריר הזרוע טרי",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "2 ק\"ג ב- 110 ₪",
+        "product_link": "https://yochananof.co.il/s59/wrir-hzrve-tri-403076.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "אסאדו טרי עם  עצם",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "2 ק\"ג ב- 130 ₪",
+        "product_link": "https://yochananof.co.il/s59/asadv-tri-em-ecm-403199.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "אונטריב טרי",
+        "price_per_kg": "79.90",
+        "unit_price": "79.90 ₪",
+        "discount": "2 ק\"ג ב- 140 ₪",
+        "product_link": "https://yochananof.co.il/s59/avntrib-tri-405728.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "חזה אסאדו טרי ללא עצם",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "2 ק\"ג ב- 120 ₪",
+        "product_link": "https://yochananof.co.il/s59/hzh-asadv-tri-lla-ecm-405780.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שריר עם עצם מח",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "2 ק\"ג ב- 120 ₪",
+        "product_link": "https://yochananof.co.il/s59/wrir-em-ecm-mh-405797.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "טחון בקר פרימיום טרי",
+        "price_per_kg": "59.90",
+        "unit_price": "59.90 ₪",
+        "discount": "2 ק\"ג ב- 110 ₪",
+        "product_link": "https://yochananof.co.il/s59/thvn-bqr-primivm-tri-407326.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "אנטריקוט טרי פרימיום",
+        "price_per_kg": "179.90",
+        "unit_price": "179.90 ₪",
+        "discount": "במבצע 149.90 ₪ לק\"ג",
+        "product_link": "https://yochananof.co.il/s59/antriqvt-tri-primivm-409344.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "אנטריקוט טרי דק פרימיום",
+        "price_per_kg": "179.90",
+        "unit_price": "179.90 ₪",
+        "discount": "במבצע 159.90 ₪ לק\"ג",
+        "product_link": "https://yochananof.co.il/s59/antriqvt-tri-dq-primivm-409351.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "חזה בקר טרי עם עצם",
+        "price_per_kg": "59.90",
+        "unit_price": "59.90 ₪",
+        "discount": "2 ק\"ג ב- 100 ₪",
+        "product_link": "https://yochananof.co.il/s59/hzh-bqr-tri-em-ecm-403182.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "כתף מיניון טרי",
+        "price_per_kg": "84.90",
+        "unit_price": "84.90 ₪",
+        "discount": "במבצע 79.90 ₪ לק\"ג",
+        "product_link": "https://yochananof.co.il/s59/ktp-minivn-tri-407593.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "צוואר בקר טרי ללא עצם",
+        "price_per_kg": "59.90",
+        "unit_price": "59.90 ₪",
+        "discount": "2 ק\"ג ב- 110 ₪",
+        "product_link": "https://yochananof.co.il/s59/cvvar-bqr-tri-lla-ecm-403083.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "צוואר בקר טרי עם עצם",
+        "price_per_kg": "59.90",
+        "unit_price": "59.90 ₪",
+        "discount": "2 ק\"ג ב- 100 ₪",
+        "product_link": "https://yochananof.co.il/s59/cvvar-bqr-tri-em-ecm-403205.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "בשר טחון דל שומן טרי",
+        "price_per_kg": "59.90",
+        "unit_price": "59.90 ₪",
+        "discount": "2 ק\"ג ב- 110 ₪",
+        "product_link": "https://yochananof.co.il/s59/bwr-thvn-dl-wvmn-tri-405582.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שפיץ צאך טרי",
+        "price_per_kg": "139.90",
+        "unit_price": "139.90 ₪",
+        "discount": "במבצע 119.90 ₪ לק\"ג",
+        "product_link": "https://yochananof.co.il/s59/wpic-cak-tri-405698.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "טחון בקר טרי גס פרימיום",
+        "price_per_kg": "59.90",
+        "unit_price": "59.90 ₪",
+        "discount": "2 ק\"ג ב- 110 ₪",
+        "product_link": "https://yochananof.co.il/s59/thvn-bqr-tri-gs-primivm-409252.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "אנטריקוט טרי לתנור",
+        "price_per_kg": "99.90",
+        "unit_price": "99.90 ₪",
+        "discount": "במבצע 89.90 ₪ לק\"ג",
+        "product_link": "https://yochananof.co.il/s59/antriqvt-tri-ltnvr-400570.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "כנפיים הודו  טרי",
+        "price_per_kg": "15.90",
+        "unit_price": "15.90 ₪",
+        "discount": "במבצע 14.90 ₪ לק\"ג",
+        "product_link": "https://yochananof.co.il/s59/knpiim-hvdv-tri-401034.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "פרגית עם עצם לתנור",
+        "price_per_kg": "49.90",
+        "unit_price": "49.90 ₪",
+        "discount": "2 ק\"ג ב- 95 ₪",
+        "product_link": "https://yochananof.co.il/s59/prgit-em-ecm-ltnvr-40035.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "כרעיים עוף טרי  פרימיום",
+        "price_per_kg": "29.90",
+        "unit_price": "29.90 ₪",
+        "discount": "2 ק\"ג ב- 50 ₪",
+        "product_link": "https://yochananof.co.il/s59/kreiim-evp-tri-primivm-400037.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שוקיים עוף טרי  פרימיום",
+        "price_per_kg": "39.90",
+        "unit_price": "39.90 ₪",
+        "discount": "2 ק\"ג ב- 70 ₪",
+        "product_link": "https://yochananof.co.il/s59/wvqiim-evp-tri-primivm-400044.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "ירכיים עוף טרי  פרימיום",
+        "price_per_kg": "29.90",
+        "unit_price": "29.90 ₪",
+        "discount": "2 ק\"ג ב- 55 ₪",
+        "product_link": "https://yochananof.co.il/s59/irkiim-evp-tri-primivm-400051.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "חזה עוף חצוי טרי  נקי",
+        "price_per_kg": "44.90",
+        "unit_price": "44.90 ₪",
+        "discount": "2 ק\"ג ב- 85 ₪",
+        "product_link": "https://yochananof.co.il/s59/hzh-evp-hcvi-tri-nqi-400075.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "פילה עוף טרי  פרימיום",
+        "price_per_kg": "54.90",
+        "unit_price": "54.90 ₪",
+        "discount": "2 יח' ב- 100 ₪",
+        "product_link": "https://yochananof.co.il/s59/pilh-evp-tri-primivm-400082.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שיפודי פרגיות  טרי",
+        "price_per_kg": "69.90",
+        "unit_price": "6.99 ₪",
+        "discount": "2 ק\"ג ב- 130 ₪",
+        "product_link": "https://yochananof.co.il/s59/wipvdi-prgivt-tri-400112.html",
+        "additional_description": "1000 גרם                                        \n\n                                            מעדני גורמה",
+        "quantity": "1000 גרם",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "סטייק פרגית טרי  פרימיום",
+        "price_per_kg": "69.90",
+        "unit_price": "6.99 ₪",
+        "discount": "2 ק\"ג ב- 130 ₪",
+        "product_link": "https://yochananof.co.il/s59/stiiq-prgit-tri-primivm-400129.html",
+        "additional_description": "1000 גרם                                        \n\n                                            מעדני גורמה",
+        "quantity": "1000 גרם",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "טחון עוף טרי.",
+        "price_per_kg": "44.90",
+        "unit_price": "44.90 ₪",
+        "discount": "2 ק\"ג ב- 80 ₪",
+        "product_link": "https://yochananof.co.il/s59/thvn-evp-tri-400228.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "פרגיות טרי  פרימיום",
+        "price_per_kg": "69.90",
+        "unit_price": "6.99 ₪",
+        "discount": "2 ק\"ג ב- 130 ₪",
+        "product_link": "https://yochananof.co.il/s59/prgivt-tri-primivm-400693.html",
+        "additional_description": "1000 גרם                                        \n\n                                            מעדני גורמה",
+        "quantity": "1000 גרם",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "כבד עוף  טרי",
+        "price_per_kg": "24.90",
+        "unit_price": "24.90 ₪",
+        "discount": "2 ק\"ג ב- 35 ₪",
+        "product_link": "https://yochananof.co.il/s59/kbd-evp-tri-400761.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "קוקטייל עוף מקוצב",
+        "price_per_kg": "49.90",
+        "unit_price": "49.90 ₪",
+        "discount": "2 ק\"ג ב- 90 ₪",
+        "product_link": "https://yochananof.co.il/s59/qvqtiil-evp-mqvcb-405568.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "כנפית עוף טרי",
+        "price_per_kg": "19.90",
+        "unit_price": "19.90 ₪",
+        "discount": "2 ק\"ג ב- 35 ₪",
+        "product_link": "https://yochananof.co.il/s59/knpit-evp-tri-407517.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שוקית כנף עוף טרי",
+        "price_per_kg": "19.90",
+        "unit_price": "19.90 ₪",
+        "discount": "2 ק\"ג ב- 32 ₪",
+        "product_link": "https://yochananof.co.il/s59/wvqit-knp-evp-tri-407524.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "מעורב ישראלי",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "2 ק\"ג ב- 110 ₪",
+        "product_link": "https://yochananof.co.il/s59/mevrb-iwrali-407739.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "רצועות  חזה להקפצה",
+        "price_per_kg": "49.90",
+        "unit_price": "49.90 ₪",
+        "discount": "2 ק\"ג ב- 85 ₪",
+        "product_link": "https://yochananof.co.il/s59/rcvevt-hzh-lhqpch-408156.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שווארמה פרגית חתוך טרי",
+        "price_per_kg": "74.90",
+        "unit_price": "74.90 ₪",
+        "discount": "2 ק\"ג ב- 130 ₪",
+        "product_link": "https://yochananof.co.il/s59/wvvarmh-prgit-htvk-tri-409214.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "דואט  למרק",
+        "price_per_kg": "16.90",
+        "unit_price": "16.90 ₪",
+        "discount": "2 ק\"ג ב- 28 ₪",
+        "product_link": "https://yochananof.co.il/s59/dvat-lmrq-409207.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "פילה דניס טרי יחידה",
+        "price_per_kg": "17.90",
+        "unit_price": "17.90 ₪",
+        "discount": "5 יח' ב- 85 ₪",
+        "product_link": "https://yochananof.co.il/s59/pilh-dnis-tri-ihidh-501901.html",
+        "additional_description": "1 יח'                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 יח'",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "פילה לברק טרי יחידה",
+        "price_per_kg": "19.90",
+        "unit_price": "19.90 ₪",
+        "discount": "5 יח' ב- 90 ₪",
+        "product_link": "https://yochananof.co.il/s59/pilh-lbrq-tri-ihidh-501963.html",
+        "additional_description": "1 יח'                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 יח'",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "דניס טרי יחידה",
+        "price_per_kg": "32.90",
+        "unit_price": "8.22 ₪",
+        "discount": "4 יח' ב- 120 ₪",
+        "product_link": "https://yochananof.co.il/s59/dnis-tri-ihidh-501987.html",
+        "additional_description": "400 גרם                                        \n\n                                            מעדני גורמה",
+        "quantity": "400 גרם",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "דג ברמונדי טרי",
+        "price_per_kg": "64.90",
+        "unit_price": "64.90 ₪",
+        "discount": "2 ק\"ג ב- 115 ₪",
+        "product_link": "https://yochananof.co.il/s59/dg-brmvndi-tri-501697.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "אמנון טרי במשקל",
+        "price_per_kg": "38.90",
+        "unit_price": "38.90 ₪",
+        "discount": "2 ק\"ג ב- 60 ₪",
+        "product_link": "https://yochananof.co.il/s59/amnvn-tri-bmwql-501581.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "לברק טרי יחידה כ-400 גרם",
+        "price_per_kg": "37.90",
+        "unit_price": "9.48 ₪",
+        "discount": "4 יח' ב- 110 ₪",
+        "product_link": "https://yochananof.co.il/s59/lbrq-tri-ihidh-k-400-grm-501994.html",
+        "additional_description": "400 גרם                                        \n\n                                            מעדני גורמה",
+        "quantity": "400 גרם",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "אמנון טרי יחידה",
+        "price_per_kg": "24.90",
+        "unit_price": "6.22 ₪",
+        "discount": "4 יח' ב- 90 ₪",
+        "product_link": "https://yochananof.co.il/s59/amnvn-tri-ihidh-501970.html",
+        "additional_description": "400 גרם                                        \n\n                                            מעדני גורמה",
+        "quantity": "400 גרם",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "דניס טרי במשקל",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "2 ק\"ג ב- 120 ₪",
+        "product_link": "https://yochananof.co.il/s59/dnis-tri-bmwql-501598.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "צלעות כבש טרי",
+        "price_per_kg": "189.90",
+        "unit_price": "189.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/clevt-kbw-tri-400716.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "כתף כבש טרי",
+        "price_per_kg": "119.90",
+        "unit_price": "119.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/ktp-kbw-tri-405896.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "צוואר כבש טרי",
+        "price_per_kg": "74.90",
+        "unit_price": "74.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/cvvar-kbw-tri-400709.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "בשר ראש מעובד מופשר",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/bwr-raw-mevbd-mvpwr-405612.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "אסאדו ללא עצם מעובד מופשר",
+        "price_per_kg": "59.90",
+        "unit_price": "59.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/asadv-lla-ecm-mevbd-mvpwr-402093.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "אוסובוקו מעובד מופשר",
+        "price_per_kg": "64.90",
+        "unit_price": "64.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/avsvbvqv-mevbd-mvpwr-405988.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "כתף בקר טרי",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/ktp-bqr-tri-403045.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "צלי כתף טרי מס 5",
+        "price_per_kg": "99.90",
+        "unit_price": "99.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/cli-ktp-tri-ms-5-403052.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "פילה מדומה טרי",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/pilh-mdvmh-tri-403069.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "סינטה טרי שלם",
+        "price_per_kg": "109.90",
+        "unit_price": "109.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/sinth-tri-wlm-403090.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "פילה בקר טרי",
+        "price_per_kg": "199.90",
+        "unit_price": "199.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/pilh-bqr-tri-403106.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "אנטריקוט טרי עם עצם",
+        "price_per_kg": "119.90",
+        "unit_price": "119.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/antriqvt-tri-em-ecm-403175.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "אוסובוקו עגל טרי",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/avsvbvqv-egl-tri-403212.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "טחון להמבורגר טרי",
+        "price_per_kg": "59.90",
+        "unit_price": "59.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/thvn-lhmbvrgr-tri-405827.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שיפודי אנטריקוט טרי",
+        "price_per_kg": "159.90",
+        "unit_price": "159.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/wipvdi-antriqvt-tri-405926.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שניצל עגל טרי",
+        "price_per_kg": "89.90",
+        "unit_price": "89.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/wnicl-egl-tri-406077.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "סינטה דק דק טרי",
+        "price_per_kg": "149.90",
+        "unit_price": "149.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/sinth-dq-dq-tri-407227.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "דנבר סטייק טרי",
+        "price_per_kg": "119.90",
+        "unit_price": "119.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/dnbr-stiiq-tri-407456.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "רוסטביף לתנור טרי",
+        "price_per_kg": "84.90",
+        "unit_price": "84.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/rvstbip-ltnvr-tri-407470.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "עצמות מח",
+        "price_per_kg": "34.90",
+        "unit_price": "34.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/ecmvt-mh-403236.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "עצמות בקר",
+        "price_per_kg": "19.90",
+        "unit_price": "19.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/ecmvt-bqr-403243.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "רגל עגל טרי",
+        "price_per_kg": "44.90",
+        "unit_price": "44.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/rgl-egl-tri-405858.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שייטל טרי",
+        "price_per_kg": "99.90",
+        "unit_price": "99.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/wiitl-tri-405674.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "חזה הודו טרי",
+        "price_per_kg": "34.90",
+        "unit_price": "34.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/hzh-hvdv-tri-401027.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "גרון הודו טרי  פרימיום",
+        "price_per_kg": "34.90",
+        "unit_price": "34.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/grvn-hvdv-tri-primivm-401041.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "הודו אדום  טרי נקבה",
+        "price_per_kg": "59.90",
+        "unit_price": "59.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/hvdv-advm-tri-nqbh-401058.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שווארמה הודו  טרי",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/wvvarmh-hvdv-tri-401089.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "רצועות שווארמה  טרי",
+        "price_per_kg": "74.90",
+        "unit_price": "74.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/rcvevt-wvvarmh-tri-401096.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "טחון הודו אדום  טרי",
+        "price_per_kg": "59.90",
+        "unit_price": "59.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/thvn-hvdv-advm-tri-401171.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שוקיים הודו טרי  נקבה",
+        "price_per_kg": "29.90",
+        "unit_price": "29.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/wvqiim-hvdv-tri-nqbh-401225.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "נתחי חזה הודו  טרי",
+        "price_per_kg": "29.90",
+        "unit_price": "29.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/nthi-hzh-hvdv-tri-401140.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "כבד הודו  טרי",
+        "price_per_kg": "16.90",
+        "unit_price": "16.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/kbd-hvdv-tri-405759.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "עוף טרי  שלם",
+        "price_per_kg": "19.90",
+        "unit_price": "19.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/evp-tri-wlm-400013.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "כנפיים עוף טרי  פרימיום",
+        "price_per_kg": "16.90",
+        "unit_price": "16.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/knpiim-evp-tri-primivm-400068.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שניצל עוף טרי פרימיום  דק דק",
+        "price_per_kg": "54.90",
+        "unit_price": "54.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/wnicl-evp-tri-primivm-dq-dq-400099.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "לבבות עוף  טרי",
+        "price_per_kg": "29.90",
+        "unit_price": "29.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/lbbvt-evp-tri-400679.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "גרון עוף טרי",
+        "price_per_kg": "12.90",
+        "unit_price": "12.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/grvn-evp-tri-400785.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "מעורב ירושלמי",
+        "price_per_kg": "69.90",
+        "unit_price": "69.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/mevrb-irvwlmi-405551.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "עוף טרי  מפורק",
+        "price_per_kg": "21.90",
+        "unit_price": "21.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/evp-tri-mpvrq-400020.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "חזה עוף ארוז טרי",
+        "price_per_kg": "29.90",
+        "unit_price": "29.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/hzh-evp-arvz-tri-407708.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "רצועות פרגית להקפצה",
+        "price_per_kg": "64.90",
+        "unit_price": "64.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/rcvevt-prgit-lhqpch-405940.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "שוקיים מקוצר",
+        "price_per_kg": "39.90",
+        "unit_price": "39.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/wvqiim-mqvcr-406169.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "קוביות עוף להקפצה",
+        "price_per_kg": "44.90",
+        "unit_price": "44.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/qvbivt-evp-lhqpch-406176.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "כרעיים טרי ארוז",
+        "price_per_kg": "24.90",
+        "unit_price": "24.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/kreiim-tri-arvz-407692.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "ברבוניה טרי",
+        "price_per_kg": "104.90",
+        "unit_price": "104.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/brbvnih-tri-501338.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "פילה אמנון טרי יחידה",
+        "price_per_kg": "14.90",
+        "unit_price": "14.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/pilh-amnvn-tri-ihidh-501925.html",
+        "additional_description": "1 יח'                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 יח'",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "אינטיאס טרי",
+        "price_per_kg": "110.00",
+        "unit_price": "110.00 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/aintias-tri-502120.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "פילה סלמון טרי",
+        "price_per_kg": "119.90",
+        "unit_price": "119.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/pilh-slmvn-tri-502311.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "קרפיון טרי",
+        "price_per_kg": "29.90",
+        "unit_price": "29.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/qrpivn-tri-501291.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "בורי טרי",
+        "price_per_kg": "49.90",
+        "unit_price": "49.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/bvri-tri-501314.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    },
+    {
+        "product_name": "בר ים",
+        "price_per_kg": "104.90",
+        "unit_price": "104.90 ₪",
+        "discount": "",
+        "product_link": "https://yochananof.co.il/s59/br-im-502113.html",
+        "additional_description": "1 ק\"ג                                        \n\n                                            מעדני גורמה",
+        "quantity": "1 ק\"ג",
+        "brand": "מעדני גורמה"
+    }
 ]

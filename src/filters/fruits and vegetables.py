@@ -16,12 +16,20 @@ product_containers = soup.find_all('div', class_='product details product-item-d
 # Initialize list to store parsed products
 parsed_products = []
 
+# Function to clean the text by removing unwanted characters
+def clean_text(text):
+    return text.replace('\u200f', '').strip()
+
 # Function to remove non-numeric characters from a string
 def clean_price(price_str):
     return re.sub(r'[^0-9.]', '', price_str)
 
 # Extract product details from each container
 for container in product_containers:
+    # Extract discount description if available
+    discount_descr = container.find('span', class_='discount_descr')
+    discount = clean_text(discount_descr.text) if discount_descr else ''
+
     # Extract product name
     product_name = container.find('strong', class_='product-item-name').text.strip()
     
@@ -31,12 +39,21 @@ for container in product_containers:
     price = clean_price(price)
     
     # Extract additional description
-    additional_description = container.find('div', class_='product-additional-description').text.strip()
+    additional_description = clean_text(container.find('div', class_='product-additional-description').text)
+
+    # Extract quantity and brand if available
+    amount_span = container.find('span', class_='amount')
+    quantity = clean_text(amount_span.text) if amount_span else ''
+    brand_span = container.find('span', class_='brand')
+    brand = clean_text(brand_span.text) if brand_span else ''
 
     parsed_products.append({
         'product_name': product_name,
-        'price': price,
-        'additional_description': additional_description
+        'price_per_kg': price,
+        'discount': discount,
+        'additional_description': additional_description,
+        'quantity': quantity,
+        'brand': brand
     })
 
 # Write the parsed products to a JSON file
