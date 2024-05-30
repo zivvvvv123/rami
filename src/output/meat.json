@@ -1,6 +1,7 @@
 [
     {
         "product_name": "שריר עגל מעובד מופשר",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407142_403076_402086_2.jpg",
         "price_per_kg": "59.90",
         "unit_price": "59.90 ₪",
         "discount": "2 ק\"ג ב- 110 ₪",
@@ -11,6 +12,7 @@
     },
     {
         "product_name": "פילה מדומה מעובד  מופשר",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407081_403069_402062_2.png",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "במבצע 59.90 ₪ לק\"ג",
@@ -21,6 +23,7 @@
     },
     {
         "product_name": "צלעות בקר טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407173_403021_402024.jpg",
         "price_per_kg": "79.90",
         "unit_price": "79.90 ₪",
         "discount": "2 ק\"ג ב- 120 ₪",
@@ -31,6 +34,7 @@
     },
     {
         "product_name": "שריר הזרוע טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407142_403076_402086_1.jpg",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "2 ק\"ג ב- 110 ₪",
@@ -41,6 +45,7 @@
     },
     {
         "product_name": "אסאדו טרי עם  עצם",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/403199_407111_408194_1.jpg",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "2 ק\"ג ב- 130 ₪",
@@ -51,6 +56,7 @@
     },
     {
         "product_name": "אונטריב טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405728_407180_402130.jpg",
         "price_per_kg": "79.90",
         "unit_price": "79.90 ₪",
         "discount": "2 ק\"ג ב- 140 ₪",
@@ -61,6 +67,7 @@
     },
     {
         "product_name": "חזה אסאדו טרי ללא עצם",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405780_407128_409542_402093_2.png",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "2 ק\"ג ב- 120 ₪",
@@ -71,6 +78,7 @@
     },
     {
         "product_name": "שריר עם עצם מח",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407135_405988_409504_403212_405797_3.png",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "2 ק\"ג ב- 120 ₪",
@@ -81,6 +89,7 @@
     },
     {
         "product_name": "טחון בקר פרימיום טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405582_405827_409740_409733_407845_409252_409399_407869_407326_400648_403250_407784_402161_6.jpg",
         "price_per_kg": "59.90",
         "unit_price": "59.90 ₪",
         "discount": "2 ק\"ג ב- 110 ₪",
@@ -91,6 +100,7 @@
     },
     {
         "product_name": "אנטריקוט טרי פרימיום",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407364_409511_409368_409375_409351_409344_403298_405803_4.jpg",
         "price_per_kg": "179.90",
         "unit_price": "179.90 ₪",
         "discount": "במבצע 149.90 ₪ לק\"ג",
@@ -101,6 +111,7 @@
     },
     {
         "product_name": "אנטריקוט טרי דק פרימיום",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407364_409511_409368_409375_409351_409344_403298_405803_3.jpg",
         "price_per_kg": "179.90",
         "unit_price": "179.90 ₪",
         "discount": "במבצע 159.90 ₪ לק\"ג",
@@ -111,6 +122,7 @@
     },
     {
         "product_name": "חזה בקר טרי עם עצם",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407302_405865_403182_409115_409559_407821_2.jpg",
         "price_per_kg": "59.90",
         "unit_price": "59.90 ₪",
         "discount": "2 ק\"ג ב- 100 ₪",
@@ -121,6 +133,7 @@
     },
     {
         "product_name": "כתף מיניון טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407593_.jpg",
         "price_per_kg": "84.90",
         "unit_price": "84.90 ₪",
         "discount": "במבצע 79.90 ₪ לק\"ג",
@@ -131,6 +144,7 @@
     },
     {
         "product_name": "צוואר בקר טרי ללא עצם",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/402284_403083_403205_407267_408026.jpg",
         "price_per_kg": "59.90",
         "unit_price": "59.90 ₪",
         "discount": "2 ק\"ג ב- 110 ₪",
@@ -141,6 +155,7 @@
     },
     {
         "product_name": "צוואר בקר טרי עם עצם",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/402284_403083_403205_407267_408026_1.jpg",
         "price_per_kg": "59.90",
         "unit_price": "59.90 ₪",
         "discount": "2 ק\"ג ב- 100 ₪",
@@ -151,6 +166,7 @@
     },
     {
         "product_name": "בשר טחון דל שומן טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405582_405827_409740_409733_407845_409252_409399_407869_407326_400648_403250_407784_402161.jpg",
         "price_per_kg": "59.90",
         "unit_price": "59.90 ₪",
         "discount": "2 ק\"ג ב- 110 ₪",
@@ -161,6 +177,7 @@
     },
     {
         "product_name": "שפיץ צאך טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/408125_405698_409757.jpg",
         "price_per_kg": "139.90",
         "unit_price": "139.90 ₪",
         "discount": "במבצע 119.90 ₪ לק\"ג",
@@ -171,6 +188,7 @@
     },
     {
         "product_name": "טחון בקר טרי גס פרימיום",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405582_405827_409740_409733_407845_409252_409399_407869_407326_400648_403250_407784_402161_4.jpg",
         "price_per_kg": "59.90",
         "unit_price": "59.90 ₪",
         "discount": "2 ק\"ג ב- 110 ₪",
@@ -181,6 +199,7 @@
     },
     {
         "product_name": "אנטריקוט טרי לתנור",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400570.jpg",
         "price_per_kg": "99.90",
         "unit_price": "99.90 ₪",
         "discount": "במבצע 89.90 ₪ לק\"ג",
@@ -191,6 +210,7 @@
     },
     {
         "product_name": "כנפיים הודו  טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/401034.png",
         "price_per_kg": "15.90",
         "unit_price": "15.90 ₪",
         "discount": "במבצע 14.90 ₪ לק\"ג",
@@ -201,6 +221,7 @@
     },
     {
         "product_name": "פרגית עם עצם לתנור",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/40035.png",
         "price_per_kg": "49.90",
         "unit_price": "49.90 ₪",
         "discount": "2 ק\"ג ב- 95 ₪",
@@ -211,6 +232,7 @@
     },
     {
         "product_name": "כרעיים עוף טרי  פרימיום",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407692_400037_408200_1.png",
         "price_per_kg": "29.90",
         "unit_price": "29.90 ₪",
         "discount": "2 ק\"ג ב- 50 ₪",
@@ -221,6 +243,7 @@
     },
     {
         "product_name": "שוקיים עוף טרי  פרימיום",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/401225_409313_406169_400044_409108_3.jpg",
         "price_per_kg": "39.90",
         "unit_price": "39.90 ₪",
         "discount": "2 ק\"ג ב- 70 ₪",
@@ -231,6 +254,7 @@
     },
     {
         "product_name": "ירכיים עוף טרי  פרימיום",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400051_1.png",
         "price_per_kg": "29.90",
         "unit_price": "29.90 ₪",
         "discount": "2 ק\"ג ב- 55 ₪",
@@ -241,6 +265,7 @@
     },
     {
         "product_name": "חזה עוף חצוי טרי  נקי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407708_400075_1.jpg",
         "price_per_kg": "44.90",
         "unit_price": "44.90 ₪",
         "discount": "2 ק\"ג ב- 85 ₪",
@@ -251,6 +276,7 @@
     },
     {
         "product_name": "פילה עוף טרי  פרימיום",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400440_400082_408231_1.jpg",
         "price_per_kg": "54.90",
         "unit_price": "54.90 ₪",
         "discount": "2 יח' ב- 100 ₪",
@@ -261,6 +287,7 @@
     },
     {
         "product_name": "שיפודי פרגיות  טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400693_7290028598952_408248_4485306_400112.jpg",
         "price_per_kg": "69.90",
         "unit_price": "6.99 ₪",
         "discount": "2 ק\"ג ב- 130 ₪",
@@ -271,6 +298,7 @@
     },
     {
         "product_name": "סטייק פרגית טרי  פרימיום",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400129.png",
         "price_per_kg": "69.90",
         "unit_price": "6.99 ₪",
         "discount": "2 ק\"ג ב- 130 ₪",
@@ -281,6 +309,7 @@
     },
     {
         "product_name": "טחון עוף טרי.",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400228.jpg",
         "price_per_kg": "44.90",
         "unit_price": "44.90 ₪",
         "discount": "2 ק\"ג ב- 80 ₪",
@@ -291,6 +320,7 @@
     },
     {
         "product_name": "פרגיות טרי  פרימיום",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400693_7290028598952_408248_4485306_400112_1.jpg",
         "price_per_kg": "69.90",
         "unit_price": "6.99 ₪",
         "discount": "2 ק\"ג ב- 130 ₪",
@@ -301,6 +331,7 @@
     },
     {
         "product_name": "כבד עוף  טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400761_400310_408279_405759_1_1.png",
         "price_per_kg": "24.90",
         "unit_price": "24.90 ₪",
         "discount": "2 ק\"ג ב- 35 ₪",
@@ -311,6 +342,7 @@
     },
     {
         "product_name": "קוקטייל עוף מקוצב",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405568.png",
         "price_per_kg": "49.90",
         "unit_price": "49.90 ₪",
         "discount": "2 ק\"ג ב- 90 ₪",
@@ -321,6 +353,7 @@
     },
     {
         "product_name": "כנפית עוף טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400068_408224_407517_1.jpg",
         "price_per_kg": "19.90",
         "unit_price": "19.90 ₪",
         "discount": "2 ק\"ג ב- 35 ₪",
@@ -331,6 +364,7 @@
     },
     {
         "product_name": "שוקית כנף עוף טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407524.jpg",
         "price_per_kg": "19.90",
         "unit_price": "19.90 ₪",
         "discount": "2 ק\"ג ב- 32 ₪",
@@ -341,6 +375,7 @@
     },
     {
         "product_name": "מעורב ישראלי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407739_409191.jpg",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "2 ק\"ג ב- 110 ₪",
@@ -351,6 +386,7 @@
     },
     {
         "product_name": "רצועות  חזה להקפצה",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/406176_408156_405940_1.png",
         "price_per_kg": "49.90",
         "unit_price": "49.90 ₪",
         "discount": "2 ק\"ג ב- 85 ₪",
@@ -361,6 +397,7 @@
     },
     {
         "product_name": "שווארמה פרגית חתוך טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/401096_401089_409214_4.png",
         "price_per_kg": "74.90",
         "unit_price": "74.90 ₪",
         "discount": "2 ק\"ג ב- 130 ₪",
@@ -371,6 +408,7 @@
     },
     {
         "product_name": "דואט  למרק",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/409207.jpg",
         "price_per_kg": "16.90",
         "unit_price": "16.90 ₪",
         "discount": "2 ק\"ג ב- 28 ₪",
@@ -381,6 +419,7 @@
     },
     {
         "product_name": "פילה דניס טרי יחידה",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/8/6/8618021_501901.jpg",
         "price_per_kg": "17.90",
         "unit_price": "17.90 ₪",
         "discount": "5 יח' ב- 85 ₪",
@@ -391,6 +430,7 @@
     },
     {
         "product_name": "פילה לברק טרי יחידה",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/501963_8255806.jpg",
         "price_per_kg": "19.90",
         "unit_price": "19.90 ₪",
         "discount": "5 יח' ב- 90 ₪",
@@ -401,6 +441,7 @@
     },
     {
         "product_name": "דניס טרי יחידה",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/501598_501987_2.jpg",
         "price_per_kg": "32.90",
         "unit_price": "8.22 ₪",
         "discount": "4 יח' ב- 120 ₪",
@@ -411,6 +452,7 @@
     },
     {
         "product_name": "דג ברמונדי טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/501697.jpg",
         "price_per_kg": "64.90",
         "unit_price": "64.90 ₪",
         "discount": "2 ק\"ג ב- 115 ₪",
@@ -421,6 +463,7 @@
     },
     {
         "product_name": "אמנון טרי במשקל",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/501581_2332350_501925_7290006065780_7290006065797.jpg",
         "price_per_kg": "38.90",
         "unit_price": "38.90 ₪",
         "discount": "2 ק\"ג ב- 60 ₪",
@@ -431,6 +474,7 @@
     },
     {
         "product_name": "לברק טרי יחידה כ-400 גרם",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/501994.jpg",
         "price_per_kg": "37.90",
         "unit_price": "9.48 ₪",
         "discount": "4 יח' ב- 110 ₪",
@@ -441,6 +485,7 @@
     },
     {
         "product_name": "אמנון טרי יחידה",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/_/5/_501970.jpg",
         "price_per_kg": "24.90",
         "unit_price": "6.22 ₪",
         "discount": "4 יח' ב- 90 ₪",
@@ -451,6 +496,7 @@
     },
     {
         "product_name": "דניס טרי במשקל",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/501598_501987.jpg",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "2 ק\"ג ב- 120 ₪",
@@ -461,6 +507,7 @@
     },
     {
         "product_name": "צלעות כבש טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400716_408040_408040_2__1.jpg",
         "price_per_kg": "189.90",
         "unit_price": "189.90 ₪",
         "discount": "",
@@ -471,6 +518,7 @@
     },
     {
         "product_name": "כתף כבש טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405896_407890_400662.jpg",
         "price_per_kg": "119.90",
         "unit_price": "119.90 ₪",
         "discount": "",
@@ -481,6 +529,7 @@
     },
     {
         "product_name": "צוואר כבש טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400709.jpg",
         "price_per_kg": "74.90",
         "unit_price": "74.90 ₪",
         "discount": "",
@@ -491,6 +540,7 @@
     },
     {
         "product_name": "בשר ראש מעובד מופשר",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405612.jpg",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "",
@@ -501,6 +551,7 @@
     },
     {
         "product_name": "אסאדו ללא עצם מעובד מופשר",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405780_407128_409542_402093_1.png",
         "price_per_kg": "59.90",
         "unit_price": "59.90 ₪",
         "discount": "",
@@ -511,6 +562,7 @@
     },
     {
         "product_name": "אוסובוקו מעובד מופשר",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407135_405988_409504_403212_405797_2.png",
         "price_per_kg": "64.90",
         "unit_price": "64.90 ₪",
         "discount": "",
@@ -521,6 +573,7 @@
     },
     {
         "product_name": "כתף בקר טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/403045_407098_402048.jpg",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "",
@@ -531,6 +584,7 @@
     },
     {
         "product_name": "צלי כתף טרי מס 5",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/403052_407074_402055.png",
         "price_per_kg": "99.90",
         "unit_price": "99.90 ₪",
         "discount": "",
@@ -541,6 +595,7 @@
     },
     {
         "product_name": "פילה מדומה טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407081_403069_402062_1.png",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "",
@@ -551,6 +606,7 @@
     },
     {
         "product_name": "סינטה טרי שלם",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/403090_407241_402116.jpg",
         "price_per_kg": "109.90",
         "unit_price": "109.90 ₪",
         "discount": "",
@@ -561,6 +617,7 @@
     },
     {
         "product_name": "פילה בקר טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/403106_407999_402123.jpg",
         "price_per_kg": "199.90",
         "unit_price": "199.90 ₪",
         "discount": "",
@@ -571,6 +628,7 @@
     },
     {
         "product_name": "אנטריקוט טרי עם עצם",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/403175_407166_409146.png",
         "price_per_kg": "119.90",
         "unit_price": "119.90 ₪",
         "discount": "",
@@ -581,6 +639,7 @@
     },
     {
         "product_name": "אוסובוקו עגל טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407135_405988_409504_403212_405797.png",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "",
@@ -591,6 +650,7 @@
     },
     {
         "product_name": "טחון להמבורגר טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405582_405827_409740_409733_407845_409252_409399_407869_407326_400648_403250_407784_402161_1.jpg",
         "price_per_kg": "59.90",
         "unit_price": "59.90 ₪",
         "discount": "",
@@ -601,6 +661,7 @@
     },
     {
         "product_name": "שיפודי אנטריקוט טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400624_407777_405926.jpg",
         "price_per_kg": "159.90",
         "unit_price": "159.90 ₪",
         "discount": "",
@@ -611,6 +672,7 @@
     },
     {
         "product_name": "שניצל עגל טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/406077.png",
         "price_per_kg": "89.90",
         "unit_price": "89.90 ₪",
         "discount": "",
@@ -621,6 +683,7 @@
     },
     {
         "product_name": "סינטה דק דק טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407227_407951.jpg",
         "price_per_kg": "149.90",
         "unit_price": "149.90 ₪",
         "discount": "",
@@ -631,6 +694,7 @@
     },
     {
         "product_name": "דנבר סטייק טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407456_407807.jpg",
         "price_per_kg": "119.90",
         "unit_price": "119.90 ₪",
         "discount": "",
@@ -641,6 +705,7 @@
     },
     {
         "product_name": "רוסטביף לתנור טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407470_408071_408262.jpg",
         "price_per_kg": "84.90",
         "unit_price": "84.90 ₪",
         "discount": "",
@@ -651,6 +716,7 @@
     },
     {
         "product_name": "עצמות מח",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/403236_407982.jpg",
         "price_per_kg": "34.90",
         "unit_price": "34.90 ₪",
         "discount": "",
@@ -661,6 +727,7 @@
     },
     {
         "product_name": "עצמות בקר",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/403243.jpg",
         "price_per_kg": "19.90",
         "unit_price": "19.90 ₪",
         "discount": "",
@@ -671,6 +738,7 @@
     },
     {
         "product_name": "רגל עגל טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405858.jpg",
         "price_per_kg": "44.90",
         "unit_price": "44.90 ₪",
         "discount": "",
@@ -681,6 +749,7 @@
     },
     {
         "product_name": "שייטל טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405674_408101_402369.png",
         "price_per_kg": "99.90",
         "unit_price": "99.90 ₪",
         "discount": "",
@@ -691,6 +760,7 @@
     },
     {
         "product_name": "חזה הודו טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/401027_408217_401140_1.png",
         "price_per_kg": "34.90",
         "unit_price": "34.90 ₪",
         "discount": "",
@@ -701,6 +771,7 @@
     },
     {
         "product_name": "גרון הודו טרי  פרימיום",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/401041_409771.png",
         "price_per_kg": "34.90",
         "unit_price": "34.90 ₪",
         "discount": "",
@@ -711,6 +782,7 @@
     },
     {
         "product_name": "הודו אדום  טרי נקבה",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/401058.jpg",
         "price_per_kg": "59.90",
         "unit_price": "59.90 ₪",
         "discount": "",
@@ -721,6 +793,7 @@
     },
     {
         "product_name": "שווארמה הודו  טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/401096_401089_409214_1.png",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "",
@@ -731,6 +804,7 @@
     },
     {
         "product_name": "רצועות שווארמה  טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/401096_401089_409214_2.png",
         "price_per_kg": "74.90",
         "unit_price": "74.90 ₪",
         "discount": "",
@@ -741,6 +815,7 @@
     },
     {
         "product_name": "טחון הודו אדום  טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/401171.jpg",
         "price_per_kg": "59.90",
         "unit_price": "59.90 ₪",
         "discount": "",
@@ -751,6 +826,7 @@
     },
     {
         "product_name": "שוקיים הודו טרי  נקבה",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/401225_409313_406169_400044_409108.jpg",
         "price_per_kg": "29.90",
         "unit_price": "29.90 ₪",
         "discount": "",
@@ -761,6 +837,7 @@
     },
     {
         "product_name": "נתחי חזה הודו  טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/401027_408217_401140_1_2.png",
         "price_per_kg": "29.90",
         "unit_price": "29.90 ₪",
         "discount": "",
@@ -771,6 +848,7 @@
     },
     {
         "product_name": "כבד הודו  טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400761_400310_408279_405759_1_2.png",
         "price_per_kg": "16.90",
         "unit_price": "16.90 ₪",
         "discount": "",
@@ -781,6 +859,7 @@
     },
     {
         "product_name": "עוף טרי  שלם",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400280_400020_400013_1.png",
         "price_per_kg": "19.90",
         "unit_price": "19.90 ₪",
         "discount": "",
@@ -791,6 +870,7 @@
     },
     {
         "product_name": "כנפיים עוף טרי  פרימיום",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400068_408224_407517.jpg",
         "price_per_kg": "16.90",
         "unit_price": "16.90 ₪",
         "discount": "",
@@ -801,6 +881,7 @@
     },
     {
         "product_name": "שניצל עוף טרי פרימיום  דק דק",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400303_400099_408286_1.jpg",
         "price_per_kg": "54.90",
         "unit_price": "54.90 ₪",
         "discount": "",
@@ -811,6 +892,7 @@
     },
     {
         "product_name": "לבבות עוף  טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400679_400327_1.jpg",
         "price_per_kg": "29.90",
         "unit_price": "29.90 ₪",
         "discount": "",
@@ -821,6 +903,7 @@
     },
     {
         "product_name": "גרון עוף טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400785.jpg",
         "price_per_kg": "12.90",
         "unit_price": "12.90 ₪",
         "discount": "",
@@ -831,6 +914,7 @@
     },
     {
         "product_name": "מעורב ירושלמי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/405551.png",
         "price_per_kg": "69.90",
         "unit_price": "69.90 ₪",
         "discount": "",
@@ -841,6 +925,7 @@
     },
     {
         "product_name": "עוף טרי  מפורק",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/400280_400020_400013.png",
         "price_per_kg": "21.90",
         "unit_price": "21.90 ₪",
         "discount": "",
@@ -851,6 +936,7 @@
     },
     {
         "product_name": "חזה עוף ארוז טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407708_400075.jpg",
         "price_per_kg": "29.90",
         "unit_price": "29.90 ₪",
         "discount": "",
@@ -861,6 +947,7 @@
     },
     {
         "product_name": "רצועות פרגית להקפצה",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/406176_408156_405940_2.png",
         "price_per_kg": "64.90",
         "unit_price": "64.90 ₪",
         "discount": "",
@@ -871,6 +958,7 @@
     },
     {
         "product_name": "שוקיים מקוצר",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/401225_409313_406169_400044_409108_2.jpg",
         "price_per_kg": "39.90",
         "unit_price": "39.90 ₪",
         "discount": "",
@@ -881,6 +969,7 @@
     },
     {
         "product_name": "קוביות עוף להקפצה",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/406176_408156_405940.png",
         "price_per_kg": "44.90",
         "unit_price": "44.90 ₪",
         "discount": "",
@@ -891,6 +980,7 @@
     },
     {
         "product_name": "כרעיים טרי ארוז",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/4/0/407692_400037_408200.png",
         "price_per_kg": "24.90",
         "unit_price": "24.90 ₪",
         "discount": "",
@@ -901,6 +991,7 @@
     },
     {
         "product_name": "ברבוניה טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/501338.jpg",
         "price_per_kg": "104.90",
         "unit_price": "104.90 ₪",
         "discount": "",
@@ -911,6 +1002,7 @@
     },
     {
         "product_name": "פילה אמנון טרי יחידה",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/501581_2332350_501925_7290006065780_7290006065797_1.jpg",
         "price_per_kg": "14.90",
         "unit_price": "14.90 ₪",
         "discount": "",
@@ -921,6 +1013,7 @@
     },
     {
         "product_name": "אינטיאס טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/502120.jpg",
         "price_per_kg": "110.00",
         "unit_price": "110.00 ₪",
         "discount": "",
@@ -931,6 +1024,7 @@
     },
     {
         "product_name": "פילה סלמון טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/502311_2332329_2866916_7290006065650.jpg",
         "price_per_kg": "119.90",
         "unit_price": "119.90 ₪",
         "discount": "",
@@ -941,6 +1035,7 @@
     },
     {
         "product_name": "קרפיון טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/501291.jpg",
         "price_per_kg": "29.90",
         "unit_price": "29.90 ₪",
         "discount": "",
@@ -951,6 +1046,7 @@
     },
     {
         "product_name": "בורי טרי",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/501314_2332367.jpg",
         "price_per_kg": "49.90",
         "unit_price": "49.90 ₪",
         "discount": "",
@@ -961,6 +1057,7 @@
     },
     {
         "product_name": "בר ים",
+        "image_url": "https://yochananof.co.il/media/catalog/product/cache/0a75b106ebeba5ac77f0b3b021b33564/5/0/502113.jpg",
         "price_per_kg": "104.90",
         "unit_price": "104.90 ₪",
         "discount": "",

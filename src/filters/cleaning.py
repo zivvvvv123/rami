@@ -1,60 +1,51 @@
 from bs4 import BeautifulSoup
 import json
 import re
+
 def clean_text(text):
     return text.replace('\u200f', '').strip()
-# Read HTML file
+
+def clean_price(price_str):
+    return re.sub(r'[^0-9.]', '', price_str)
+
 html_file = "C:/Users/zivit/Desktop/rami/src/pages/cleaning.html"
 with open(html_file, "r", encoding="utf-8") as file:
     html_content = file.read()
 
-# Parse HTML using BeautifulSoup
 soup = BeautifulSoup(html_content, 'html.parser')
 
-# Find all product details containers
-product_containers = soup.find_all('div', class_='product details product-item-details')
+product_containers = soup.find_all('div', class_='product-item-info')
 
-# Initialize list to store parsed products
 parsed_products = []
 
-# Function to remove non-numeric characters from a string
-def clean_price(price_str):
-    return re.sub(r'[^0-9.]', '', price_str)
-
-# Extract product details from each container
 for container in product_containers:
-    # Extract product name
-    product_name = container.find('strong', class_='product-item-name').text.strip()
-    product_name = clean_text(product_name)
-    
-    # Extract price
-    price = container.find('span', class_='price').text.strip()
-    # Clean the price string
-    price = clean_price(price)
-    price = clean_text(price)
-    
-    # Extract additional description
-    additional_description = container.find('div', class_='product-additional-description').text.strip()
-    
-    # Extract brand
-    brand_span = container.find('span', class_='brand')
-    brand = brand_span.text.strip() if brand_span else ''
-    brand = clean_text(brand)
-    
-    # Extract discount
-    discount_descr = container.find('span', class_='discount_descr')
-    discount = discount_descr.text.strip() if discount_descr else ''
-    discount = clean_text(discount)
+    product_name_tag = container.find('strong', class_='product-item-name')
+    product_name = clean_text(product_name_tag.text.strip()) if product_name_tag else ''
+
+    price_tag = container.find('span', class_='price')
+    price = clean_price(price_tag.text.strip()) if price_tag else ''
+
+    additional_description_tag = container.find('div', class_='product-additional-description')
+    additional_description = clean_text(additional_description_tag.text.strip()) if additional_description_tag else ''
+
+    brand_tag = container.find('span', class_='brand')
+    brand = clean_text(brand_tag.text.strip()) if brand_tag else ''
+
+    discount_tag = container.find('span', class_='discount_descr')
+    discount = clean_text(discount_tag.text.strip()) if discount_tag else ''
+
+    image_tag = container.find('img', class_='product-image-photo')
+    image_url = image_tag['src'] if image_tag and 'src' in image_tag.attrs else ''
 
     parsed_products.append({
         'product_name': product_name,
         'price': price,
         'additional_description': additional_description,
         'brand': brand,
-        'discount': discount
+        'discount': discount,
+        'image_url': image_url
     })
 
-# Write the parsed products to a JSON file
 output_file = "C:/Users/zivit/Desktop/rami/src/output/cleaning.json"
 with open(output_file, "w", encoding="utf-8") as json_file:
     json.dump(parsed_products, json_file, ensure_ascii=False, indent=4)

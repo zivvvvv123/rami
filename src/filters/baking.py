@@ -10,17 +10,17 @@ html_file = "C:/Users/zivit/Desktop/rami/src/pages/baking.html"
 with open(html_file, "r", encoding="utf-8") as file:
     html_content = file.read()
 
-# Create BeautifulSoup object
+# Parse HTML using BeautifulSoup
 soup = BeautifulSoup(html_content, 'html.parser')
 
 # Initialize list to store parsed products
 parsed_products = []
 
 # Find all product details
-product_details = soup.find_all('div', class_='product details product-item-details')
+product_containers = soup.find_all('div', class_='product-item-info')
 
 # Iterate through each product detail
-for detail in product_details:
+for detail in product_containers:
     # Extract the discount description if available
     discount_descr = detail.find('span', class_='discount_descr')
     discount = clean_text(discount_descr.text) if discount_descr else ''
@@ -51,6 +51,10 @@ for detail in product_details:
     brand_span = detail.find('span', class_='brand')
     brand = clean_text(brand_span.text) if brand_span else ''
 
+    # Extract image URL
+    image_tag = detail.find('img', class_='product-image-photo')
+    image_url = image_tag['src'] if image_tag else ''
+
     # Create product dictionary
     product = {
         'product_name': product_name,
@@ -60,7 +64,8 @@ for detail in product_details:
         'product_link': product_link,
         'additional_description': additional_description,
         'quantity': quantity,
-        'brand': brand
+        'brand': brand,
+        'image_url': image_url
     }
 
     # Append product to list of parsed products

@@ -11,7 +11,7 @@ with open(html_file, "r", encoding="utf-8") as file:
 soup = BeautifulSoup(html_content, 'html.parser')
 
 # Find all product details containers
-product_containers = soup.find_all('div', class_='product details product-item-details')
+product_containers = soup.find_all('div', class_='product-item-info')
 
 # Initialize list to store parsed products
 parsed_products = []
@@ -50,13 +50,17 @@ for container in product_containers:
     discount = discount_descr.text.strip() if discount_descr else ''
     # Clean discount text
     discount = clean_text(discount)
+    
+    # Extract image URL
+    image_url = container.find('img', class_='product-image-photo')['src']
 
     parsed_products.append({
         'product_name': clean_text(product_name),
         'price': price,
         'additional_description': additional_description,
         'brand': brand,
-        'discount': discount
+        'discount': discount,
+        'image_url': image_url
     })
 
 # Write the parsed products to a JSON file

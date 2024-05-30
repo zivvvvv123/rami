@@ -11,6 +11,7 @@ const productSchema = new mongoose.Schema(
     supermarket: { type: String },
     discount: { type: String },
     productLink: { type: String },
+    image_url: { type: String },
   },
   { collection: "juhananof" }
 ); // Specify the collection name here

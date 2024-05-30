@@ -1,12 +1,8 @@
 from bs4 import BeautifulSoup
 import json
 
-# Function to clean the text by removing unwanted characters
-def clean_text(text):
-    return text.replace('\u200f', '').strip()
-
 # Read HTML file
-html_file = "C:/Users/zivit/Desktop/rami/src/pages/meat.html"
+html_file = "C:/Users/zivit/Desktop/rami/src/pages/meholet.html"
 with open(html_file, "r", encoding="utf-8") as file:
     html_content = file.read()
 
@@ -30,7 +26,7 @@ for info in product_infos:
 
     # Extract discount description if available
     discount_descr = detail.find('span', class_='discount_descr')
-    discount = clean_text(discount_descr.text) if discount_descr else ''
+    discount = discount_descr.text.strip() if discount_descr else ''
 
     # Extract price
     price_span = detail.find('span', class_='price').text.strip()
@@ -42,21 +38,21 @@ for info in product_infos:
     if baseprice_div:
         baseprice_span = baseprice_div.find('span', class_='price')
         if baseprice_span:
-            unit_price = clean_text(baseprice_span.text)
+            unit_price = baseprice_span.text.strip()
 
     # Extract product name and link
     product_name_tag = detail.find('strong', class_='product-item-name')
-    product_name = clean_text(product_name_tag.text)
-    product_link = product_name_tag.find('a')['href']
+    product_name = product_name_tag.text.strip() if product_name_tag else ''
+    product_link = product_name_tag.find('a')['href'] if product_name_tag and product_name_tag.find('a') else ''
 
     # Extract additional description
-    additional_description = clean_text(detail.find('div', class_='product-additional-description').text)
+    additional_description = detail.find('div', class_='product-additional-description').text.strip() if detail.find('div', class_='product-additional-description') else ''
 
     # Extract quantity and brand if available
     amount_span = detail.find('span', class_='amount')
-    quantity = clean_text(amount_span.text) if amount_span else ''
+    quantity = amount_span.text.strip() if amount_span else ''
     brand_span = detail.find('span', class_='brand')
-    brand = clean_text(brand_span.text) if brand_span else ''
+    brand = brand_span.text.strip() if brand_span else ''
 
     # Create product dictionary
     product = {
@@ -75,8 +71,8 @@ for info in product_infos:
     parsed_products.append(product)
 
 # Save parsed products to JSON file
-output_file = "C:/Users/zivit/Desktop/rami/src/output/meat.json"
+output_file = "C:/Users/zivit/Desktop/rami/src/output/meholet.json"
 with open(output_file, "w", encoding="utf-8") as json_file:
     json.dump(parsed_products, json_file, ensure_ascii=False, indent=4)
 
-print("Filtered meat data saved to", output_file)
+print("Filtered meholet data saved to", output_file)
