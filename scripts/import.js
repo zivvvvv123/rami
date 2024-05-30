@@ -7,10 +7,8 @@ const importData = async () => {
   await connectDB();
 
   try {
-    // Clear existing data
     await Product.deleteMany();
 
-    // Read combined JSON data from products.json
     const productsJsonPath = path.join(
       __dirname,
       "..",
@@ -19,7 +17,6 @@ const importData = async () => {
     );
     const jsonData = JSON.parse(fs.readFileSync(productsJsonPath, "utf8"));
 
-    // Insert data into MongoDB
     await Product.insertMany(jsonData);
 
     console.log("Data imported successfully");

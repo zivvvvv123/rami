@@ -14,7 +14,7 @@ const productSchema = new mongoose.Schema(
     image_url: { type: String },
   },
   { collection: "juhananof" }
-); // Specify the collection name here
+);
 
 const Product = mongoose.model("Product", productSchema);
 
